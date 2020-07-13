@@ -1,0 +1,12 @@
+
+
+what is the difference between loc and iloc usage in pandas?
+
+loc vs iloc:
+The loc indexer can also do boolean selection. For instance, if we are interested in finding all the rows where Age is less 30 and return just the Color and Height columns we can do the following. We can replicate this with iloc but we cannot pass it a boolean series. We must convert the boolean Series into a numpy array
+
+loc gets rows (or columns) with particular labels from the index
+
+iloc gets rows (or columns) at particular positions in the index (so it only takes integers)
+
+750885
