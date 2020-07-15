@@ -1,0 +1,12 @@
+
+
+Types of data analysis
+
+Descriptive Analysis
+Exploratory Analysis
+Inferential Analysis
+Diagnostic Analysis
+Predictive Analysis
+Causal Analysis
+Prescriptive Analysis
+what-if analysis
