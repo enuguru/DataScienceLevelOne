@@ -1,4 +1,7 @@
 
+covid dataset
+https://www.kaggle.com/sudalairajkumar/covid19-in-india/data#
+
 google colab
 https://colab.research.google.com/notebooks/intro.ipynb
 

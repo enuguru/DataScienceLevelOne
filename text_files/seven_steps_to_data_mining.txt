@@ -5,7 +5,7 @@ seven steps to data mining
 data acquisition - data extraction from one source or many 
                    sources, bringing it in the form of a csv file
                    and then loading data in to a dataframe
-                   csv, tsv and json
+                   csv, tsv and json = data extraction + data loading
 
 data inspection  - look at data from different view points
 
