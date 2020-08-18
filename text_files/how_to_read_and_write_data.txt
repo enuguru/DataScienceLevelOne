@@ -1,0 +1,32 @@
+
+types of data files
+
+csv file
+tsv file
+txt file
+excel file
+json file
+
+
+how to read
+
+read using basic python
+read using pandas
+read using numpy
+
+
+functions to read and write
+
+read_csv
+
+read_table
+
+read_excel
+
+csv_reader
+
+load_txt
+
+csv_writer
+
+df.tocsv("filename_to_write")
