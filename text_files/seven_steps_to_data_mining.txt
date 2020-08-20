@@ -10,7 +10,7 @@ data acquisition - data extraction from one source or many
 
 data inspection  - look at data from different view points
 
-data cleaning    - data deletion, data formatting, 
+data cleaning    - data deletion, data formatting, data inserted
                    data replacement, data filling - data imputation
 
 data preprocessing - rescaling, standarization, normalization  
@@ -23,5 +23,6 @@ data analysis - summary statistics, data skewness, data kurtosis
 modelling -     regression, classification, clustering, outlier 
                 detection and time series analysis
 
+results and
 visualization - data visualization from different view points,
                 listing results and taking a decision

@@ -8,11 +8,29 @@ excel file
 json file
 
 
+how to load data - computer or cloud
+
+data loading
+1. computer to computer
+2. computer to cloud
+3. cloud to cloud
+4. cloud to computer
+
+
 how to read
 
 read using basic python
 read using pandas
 read using numpy
+
+different types of loading data using python
+
+load data to a list
+load data to a dictionary
+load data to a tuple
+load data to a set
+using pandas - load data to a data frame
+using numpy or pandas - load data in to an array
 
 
 functions to read and write
