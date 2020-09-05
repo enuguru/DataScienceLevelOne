@@ -56,3 +56,25 @@ what is pandas
 pandas is a software library written for the Python programming language for data manipulation and analysis. It offers data structures and operations for manipulating numerical tables and time series. 
 
 Wes Mckinney 2008
+
+matplotlib
+
+
+
+
+
+
+numpy
+pandas
+sklearn
+matplotlib
+seaborn
+statsmodels
+tensorflow
+keras
+jupyter notebook
+
+
+
+
+
