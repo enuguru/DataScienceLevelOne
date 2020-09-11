@@ -18,7 +18,7 @@ data preprocessing - rescaling, standarization, normalization
 
 data analysis - summary statistics, data skewness, data kurtosis 
                 data correlation, causation and regression, density estimation, 
-                principal component analysis, what if analysis,
+                principal component analysis, what if analysis
 
 modelling -     regression, classification, clustering, outlier 
                 detection and time series analysis
