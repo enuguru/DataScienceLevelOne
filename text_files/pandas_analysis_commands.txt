@@ -1,8 +1,6 @@
 
-
+most often used data analysis commands in pandas
 
 groupby
 crosstab
-pivot
 pivot_table
-concat
