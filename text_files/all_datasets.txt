@@ -67,23 +67,3 @@ http://ai.stanford.edu/~amaas/data/sentiment/
 A collection of movie reviews from the website imdb.com and their positive or negative sentiment.
 https://raw.githubusercontent.com/jbrownlee/Datasets/master/
 review_polarity.tar.gz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

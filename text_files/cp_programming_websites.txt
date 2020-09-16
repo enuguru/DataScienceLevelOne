@@ -1,0 +1,58 @@
+
+
+list of resources for top programming - competitive programming
+https://codeforces.com/blog/entry/23054
+
+www.hackerrank.com
+you can do 
+practice for tests - get ranking while practising
+get certified - in basic python, problem solving beginners, problem solving intermediate
+
+www.hackerearth.com
+
+www.codeforces.com
+
+https://coderbyte.com/
+
+https://www.codewars.com/
+
+https://codesignal.com/developers/
+get certified through tests
+
+www.codechef.com
+https://www.codechef.com/certification/data-structures-and-algorithms/examination#format
+
+www.spoj.com - sphere on line judge
+
+www.leetcode.com
+
+www.algoexpert.com
+
+www.topcoder.com
+
+www.codility.com - this is a platform for hiring managers
+
+
+some courses
+https://www.udemy.com/course/the-bible-of-algorithms-and-interview-questions/
+
+https://www.udemy.com/course/leetcode-in-python-50-algorithms-coding-interview-questions/
+
+
+programming leaders
+
+Gennady Korotkevich
+Petr Mitrichev
+Erichto - you tube channels
+
+
+ranking and color ratings
+
+https://www.topcoder.com/community/competitive-programming/how-to-compete/ratings
+
+https://en.wikipedia.org/wiki/Codeforces#:~:text=Codeforces%20is%20a%20website%20that,has%20over%20600%2C000%20registered%20users
+
+https://codeforces.com/blog/entry/20638
+
+
+
