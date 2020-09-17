@@ -1,7 +1,7 @@
 
 
-data science leaders
---------------------
+data science community leaders
+------------------------------
 see their videos, blogs and books
 
 jake vanderplas
@@ -10,10 +10,12 @@ joel grus
 
 
 data science books
+------------------
 
 python for data analysis - wes mckinney
 python data science handbook - jake vanderplas
 data science from scratch - joel grus
+data science design manual - Steven Skiena (this is more a reference text book)
 
 
 python leaders
@@ -53,14 +55,22 @@ mike bayer
 
 
 python books
+------------
 
-programming in python3 - mark summerfield
+programming in python3 - mark summerfield - 
+
 professional python - luke sneeringer
-python for everyone 
-effective python
-high performance python
+
+Python for Everybody - Exploring Data in Python 3 - by Charles Severance
+
+effective python - Brett Slatkin
+
+High Performance Python: Practical Performant Programming for Humans - 
+by Micha Gorelick and Ian Ozsvald
+
 fluent python by luciano ramalho
-learn python 3 the hard way - zed a shaw
+
+learn python 3 the hard way - Zed A Shaw
 
 
 

@@ -1,20 +1,21 @@
 
-
 certifications you can take
-
 
 hackerrank
 
 basic python
 problem solving - beginners
 problem solving - intermediate
-you can get stars
-you can get ranking in practice and ranking in challenges or competitions
+you can get badges or stars
+you can get ranking, badges in practice and in challenges or competitions
 
-code forces - in person certifications
+code forces - proctored certification examinations
 
 hackerearh - certification
 you can get stars
 you can get ranking
 
 algoexpert - certification
+
+you can get certifications for course completion from udemy, udacity and coursera
+- coursera is more recognized and valuable especially if you come in the top 10 % of the class and the teacher sends a mail

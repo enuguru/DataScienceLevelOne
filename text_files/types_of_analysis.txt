@@ -9,5 +9,6 @@ Diagnostic Analysis
 Predictive Analysis
 correlation analysis
 Causal Analysis
+Regression analysis
 Prescriptive Analysis
 what-if analysis
