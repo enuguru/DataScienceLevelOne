@@ -14,6 +14,7 @@ directory
 
 click on that and install
 then go to C:\Program Files (x86)\Vim\vim81\ directory
+C:\Program Files (x86)\Vim\vim81
 
 select gvim.exe and click properties, then copy the location
 
