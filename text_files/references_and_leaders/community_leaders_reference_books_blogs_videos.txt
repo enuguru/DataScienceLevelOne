@@ -71,21 +71,3 @@ by Micha Gorelick and Ian Ozsvald
 fluent python by luciano ramalho
 
 learn python 3 the hard way - Zed A Shaw
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

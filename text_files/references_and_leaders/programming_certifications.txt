@@ -18,4 +18,5 @@ you can get ranking
 algoexpert - certification
 
 you can get certifications for course completion from udemy, udacity and coursera
-- coursera is more recognized and valuable especially if you come in the top 10 % of the class and the teacher sends a mail
+- coursera is more recognized and valuable especially if you come in the top 10 % of 
+  the class and the teacher sends a signed certificate to you tagging your score
