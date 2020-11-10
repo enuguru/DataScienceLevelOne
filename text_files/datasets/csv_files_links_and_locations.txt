@@ -1,6 +1,5 @@
 
 
-
 1.
 onion dataset link
 https://data.gov.in/resources/daily-wholesale-price-onion-upto-april-2015
@@ -138,9 +137,3 @@ ionosphere dataset
 descrption: https://archive.ics.uci.edu/ml/datasets/Ionosphere
 data set: https://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/
 (click on ionosphere.data)
-
-
-
-
-
-

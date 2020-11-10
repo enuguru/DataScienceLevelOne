@@ -10,11 +10,11 @@ json file
 
 how to load data - computer or cloud
 
-data loading
-1. computer to computer
-2. computer to cloud
-3. cloud to cloud
-4. cloud to computer
+data loading - 
+1. program in the cloud, data in the cloud
+2. program in the cloud, data in the PC
+3. program in the PC, data in the cloud
+4. program in the PC, data in the PC
 
 
 how to read
