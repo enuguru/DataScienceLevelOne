@@ -1,0 +1,21 @@
+
+
+git reset --hard HEAD
+git pull
+
+echo $http_proxy
+echo $https_proxy
+echo $HTTPS_PROXY
+echo $HTTP_PROXY
+
+and delete with export http_proxy=
+
+Or check https and http proxy
+
+git config --global --unset https.proxy
+git config --global --unset http.proxy
+
+Or do you have the proxy in the local config?
+
+git config --unset http.proxy
+git config --unset https.proxy
