@@ -12,3 +12,4 @@ Causal Analysis
 Regression analysis
 Prescriptive Analysis
 what-if analysis
+SWOT analysis
