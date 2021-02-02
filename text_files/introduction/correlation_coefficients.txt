@@ -31,3 +31,10 @@ A monotonic relationship is a relationship that does one of the following:
 (2) as the value of one variable increases, the other variable value decreases.
 
 But the crucial thing is that the increase or decrease does not exactly happen at a constant rate whereas in a linear relationship the rate of increase or decrease is constant.
+
+
+
+
+
+
+
