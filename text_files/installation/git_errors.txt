@@ -1,4 +1,10 @@
 
+not able to access the git -
+git config --global http.sslVerify false
+
+how to check which is your current repository -
+git config --get remote.origin.url
+
 
 git reset --hard HEAD
 git pull
