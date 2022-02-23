@@ -1,0 +1,42 @@
+
+
+Seven steps in Data Science 
+---------------------------
+
+1. Data Extraction
+2. Data Inspection
+3. Data Cleaning
+4. Data Pre-Processing
+5. Data Analysis
+6. Data Modelling
+7. Data Visualization
+
+What is pandas ?
+
+Sklearn
+Pandas, Matplotlib, 
+
+home page and documentation
+https://pandas.pydata.org/
+
+pandas is a fast, powerful, flexible and easy to use open source data analysis and data manipulation tool, built on top of the Python programming language.
+
+
+PANDAS - Python for Data Analysis
+
+Pandas is derived from the term “Panel-data-s” an econometrics term for data sets include observations over multiple time periods for the same individuals.
+
+Original author(s)	Wes McKinney
+Written in	Python, Cython, C
+Operating system:	Cross-platform
+Type	Technical computing
+License	New BSD License
+
+Initial release	11 January 2008
+Stable release	1.4.1 / 12 February 2022
+
+what you can do with Pandas
+
+Statistics - basic and intermediate
+
+pandas can do all the 7 steps of data science

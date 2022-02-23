@@ -2,6 +2,7 @@
 seven steps to data mining
 --------------------------
 
+data acquisition = data extraction + data loading
 data acquisition - data extraction from one source or many 
                    sources, bringing it in the form of a csv file
                    and then loading data in to a dataframe
@@ -26,3 +27,12 @@ modelling -     regression, classification, clustering, outlier
 results and
 visualization - data visualization from different view points,
                 listing results and taking a decision
+
+
+
+.csv   comma seperated value
+.tsv   tab
+.json
+.xml
+.txt
+.xlsx  .xlsx can be saved as .csv

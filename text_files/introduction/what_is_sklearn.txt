@@ -1,0 +1,35 @@
+
+sklearn homepage
+https://scikit-learn.org/stable/
+
+what is sklearn ?
+
+Scikit-learn (Sklearn) is the most useful and robust library for machine learning in Python. It provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python.
+
+What are the features of sklearn ?
+
+Simple and efficient tools for predictive data analysis
+Accessible to everybody, and reusable in various contexts
+Built on NumPy, SciPy, and matplotlib
+Open source, commercially usable - BSD license
+
+
+Scikit-learn is a library in Python that provides many unsupervised and supervised learning algorithms. It’s built upon some of the technology you might already be familiar with, like NumPy, pandas, and Matplotlib!
+
+The functionality that scikit-learn provides include:
+
+Regression, including Linear and Logistic Regression
+Classification, including K-Nearest Neighbors
+Clustering, including K-Means and K-Means++
+Model selection
+Preprocessing, including Min-Max Normalization
+
+
+
+
+
+
+
+
+
+
